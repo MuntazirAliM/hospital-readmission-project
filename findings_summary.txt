@@ -1,0 +1,13 @@
+
+SHAP Analysis Key Findings:
+1. procedures_per_day (engineered feature) - top predictor
+2. num_procedures - high values increase readmission risk  
+3. insulin status - patients not on insulin surprisingly higher risk
+4. total_prior_visits (engineered feature) - prior hospitalisation history matters
+5. Medication changes (change feature) - indicates unstable treatment
+
+Model Performance Summary:
+- XGBoost: AUC = 0.6325 (best model)
+- Random Forest: AUC = 0.6135
+- Logistic Regression: AUC = 0.5472
+- Results consistent with published benchmarks (0.62-0.68) on this dataset
