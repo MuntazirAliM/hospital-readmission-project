@@ -91,7 +91,12 @@ The app allows users to enter patient details via interactive sliders and dropdo
 - A SHAP waterfall chart explaining the individual prediction
 
 ---
+### App Screenshots
 
+![ROC Curves](images/roc_curves.png)
+![SHAP Analysis](images/shap_dot.png)
+
+---
 ## Tech Stack
 
 - **Python 3.13**
