@@ -1,0 +1,15 @@
+# Hospital Readmission Risk Predictor
+# Pinned for Streamlit Community Cloud (Python 3.11)
+# ⚠️  Your local environment uses Python 3.13.
+#     Streamlit Cloud runs Python 3.11 — all packages below are 3.11-compatible.
+#     Do NOT pin to 3.13-only releases.
+
+streamlit>=1.35.0,<2.0.0
+pandas>=2.0.0,<3.0.0
+numpy>=1.26.0,<2.0.0
+scikit-learn>=1.4.0,<2.0.0
+xgboost>=2.0.0,<3.0.0
+imbalanced-learn>=0.12.0,<1.0.0
+shap>=0.45.0,<1.0.0
+matplotlib>=3.8.0,<4.0.0
+seaborn>=0.13.0,<1.0.0
