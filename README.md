@@ -1,6 +1,6 @@
 # 🏥 Hospital Readmission Risk Predictor
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-NAME.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://readmission-risk-muntazir.streamlit.app)
 
 A machine learning project that predicts whether a diabetic patient will be readmitted to hospital within 30 days of discharge. Built as a personal data science portfolio project demonstrating an end-to-end ML pipeline from raw data to deployed interactive application.
 
