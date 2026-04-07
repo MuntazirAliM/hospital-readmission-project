@@ -8,9 +8,9 @@ A machine learning project that predicts whether a diabetic patient will be read
 
 ## Live Demo
 
-**[→ Open the app](https://YOUR-APP-NAME.streamlit.app)**
+**[→ Open the app](https://readmission-risk-muntazir.streamlit.app/)**
 
-*(Replace the URL above after deploying to Streamlit Community Cloud)*
+
 
 ---
 
@@ -86,7 +86,7 @@ Results are consistent with published benchmarks on this dataset (0.62–0.68 AU
 
 ## Deployment
 
-### Streamlit Community Cloud (recommended — free)
+### Streamlit Community Cloud 
 
 See full step-by-step instructions below.
 
